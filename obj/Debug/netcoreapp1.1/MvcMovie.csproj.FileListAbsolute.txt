@@ -1,0 +1,8 @@
+/Users/vishal/Desktop/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.deps.json
+/Users/vishal/Desktop/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.runtimeconfig.json
+/Users/vishal/Desktop/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.runtimeconfig.dev.json
+/Users/vishal/Desktop/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.dll
+/Users/vishal/Desktop/MvcMovie/bin/Debug/netcoreapp1.1/MvcMovie.pdb
+/Users/vishal/Desktop/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.AssemblyInfo.cs
+/Users/vishal/Desktop/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.dll
+/Users/vishal/Desktop/MvcMovie/obj/Debug/netcoreapp1.1/MvcMovie.pdb
